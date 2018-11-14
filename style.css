@@ -1,0 +1,279 @@
+body 
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	margin-left: 125px;
+	margin-top: 50px;
+	margin-right: 125px;
+	overflow: auto;
+}
+
+.none
+{
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table.role
+{
+	border-collapse: collapse;
+    text-align: center;
+}
+
+table.role th 
+{
+    height: 25px;    
+	background-color:#eda94d;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.role tr
+{
+    font-size: 14px;
+}   
+table.role tr:nth-child(even){background-color:#f3ded0}
+table.role tr:nth-child(odd){background-color:#fcf8f3}
+
+table.diamond
+{
+	border-collapse: collapse;
+    text-align: center;
+}
+
+table.diamond th 
+{
+    height: 25px;    
+	background-color:#7fc0d0;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.diamond tr
+{
+    font-size: 14px;
+}   
+
+table.diamond tr:nth-child(even){background-color:#cce6ec}
+table.diamond tr:nth-child(odd){background-color:#f2f7fa}
+
+
+table.platinum 
+{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table.platinum th 
+{
+    height: 25px;    
+    background-color:#7fd0c2;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.platinum tr
+{
+    font-size: 14px;
+}   
+
+table.platinum tr:nth-child(even){background-color:#ccece6}
+table.platinum tr:nth-child(odd){background-color:#f2fafa}
+
+
+table.gold 
+{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table.gold th 
+{
+    height: 25px;    
+    background-color:#d0bb7f;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.gold tr
+{
+    font-size: 14px;
+}   
+
+table.gold tr:nth-child(even){background-color: #ece3cc}
+table.gold tr:nth-child(odd){background-color:#faf9f2}
+
+
+table.silver 
+{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table.silver th 
+{
+    height: 25px;    
+    background-color:#a7a7a7;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.silver tr
+{
+    font-size: 14px;
+}   
+
+table.silver tr:nth-child(even){background-color: #dcdcdc}
+table.silver tr:nth-child(odd){background-color:#f6f6f6}
+
+
+table.bronze 
+{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table.bronze th 
+{
+    height: 25px;    
+    background-color:#d0987f;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.bronze tr
+{
+    font-size: 14px;
+}   
+
+table.bronze tr:nth-child(even){background-color: #ecd5cc}
+table.bronze tr:nth-child(odd){background-color:#faf6f2}
+
+
+table.unranked 
+{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table.unranked th 
+{
+    height: 25px;    
+    background-color:#d0987f;
+    color: black;
+	font-weight: bold;
+	text-align: center;	
+    font-size: 16px;
+    
+}
+
+table.unranked tr
+{
+    font-size: 14px;
+}   
+
+table.unranked tr:nth-child(even){background-color: #ecd5cc}
+table.unranked tr:nth-child(odd){background-color:#faf6f2}
+
+
+td 
+{ 
+    padding: 8px;
+}
+
+
+
+
+
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+
+
+input[type=text], input[type=date]
+{
+	padding:5px; 
+	border-width:1px; 
+	border-radius: 8px;
+	border-color: #9c9c9c;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+input[type="text"]:focus
+{
+	
+}
+
+input[type="submit"]:hover 
+{
+
+}
+
+input[type=submit]
+{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	border-color: #9c9c9c;
+    border-radius: 5px;
+	padding: 5px;
+	transition: 0.3s;
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	overflow: auto;
+}
+
+button 
+{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+	border-color: #9c9c9c;
+    border-radius: 5px;
+	padding: 5px;
+}
+
+button:hover 
+{
+
+}
+
+a:link
+{
+	color: #666666;
+}
+
+a:visited
+{
+    color: #666666;
+}
+
+a:hover
+{
+    color: #b22020;
+}
+
