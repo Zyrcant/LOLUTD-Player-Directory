@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="dylanstyle.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <title>LOLUTD Player Directory</title>
 </head>
 <body>
